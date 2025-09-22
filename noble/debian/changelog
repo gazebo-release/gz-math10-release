@@ -1,3 +1,9 @@
+gz-math9 (9.0.0~pre2-1~noble) noble; urgency=medium
+
+  * gz-math9 9.0.0~pre2-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Mon, 22 Sep 2025 17:54:08 +0000
+
 gz-math9 (9.0.0~pre1-1~noble) noble; urgency=medium
 
   * gz-math9 9.0.0~pre1-1 release
